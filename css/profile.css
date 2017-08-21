@@ -1,0 +1,133 @@
+.card1 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  max-height:500px;
+  margin:20px;
+  text-align: center;
+  font-family: arial;
+  background:white;
+ // float:left;
+  position:fixed;
+}
+
+.container1 {
+  padding: 0 16px;
+}
+
+.container1::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+
+
+
+
+
+
+
+
+.title1 {
+  color: grey;
+  font-size: 18px;
+}
+
+.btn {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #05F89A;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+  font-family: Agency FB;
+  letter-spacing: 2px; 
+  font-size:25px;
+  text-transform:uppercase;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+.btn:hover, a:hover {
+ background-color: #ed2553;
+  opacity: 0.7;
+}
+
+
+
+
+
+
+
+
+
+
+.card2 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  min-width:500px;
+  max-width:75%;
+  
+ 
+  text-align: center;
+  font-family: arial;
+  background:white;
+ position:obsolute;
+
+margin:40px;
+margin-left:370px;
+ 
+}
+
+.container2 {
+  padding: 0 16px;
+}
+
+.container2::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+
+
+
+
+table td, table th {
+    font-size: 1em;
+  padding:-50px;
+  margin:-50px;
+    
+}
+
+table th {
+    font-size: 1.1em;
+    text-align: center;
+  
+    color: #D1062C;
+	text-transform:uppercase;
+    
+}
+
+table  td {
+ 
+    color: #ed2553;
+	    text-align:left;
+}
+
+
+
+
+
+
+
+
